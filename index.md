@@ -10,3 +10,5 @@ of my publications can be found
 This web site is a small smorgasbord of different things.
 
 [Slides: Vi IMproved and adapted](https://abcdegon.github.io/vim.pdf)
+
+[Slides: Using mail on macOS](https://abcdegon.github.io/mailing.pdf)
