@@ -1,12 +1,12 @@
 # My publications
 
-Report
-Grünter, E. (Corresponding author) ; Meier, M. ; Niederberger, R.
+Report<br>
+Grünter, E. (Corresponding author) ; Meier, M. ; Niederberger, R.<br>
 [Ein IPS für JuNet](https://juser.fz-juelich.de/record/203222/files/ib-2015-02-juser.pdf?version=1)
 
-Journal Article
-Anrath, W. ; Werner, S. ; Grünter, E.
-IPv6 First Hop Security - Nahkampf
+Journal Article<br>
+Anrath, W. ; Werner, S. ; Grünter, E.<br>
+IPv6 First Hop Security - Nahkampf<br>
 IX kompakt 4/2013, 62-65 (2013)
 
 Journal Article
