@@ -52,7 +52,7 @@ Grid-Anforderungen an Firewalls - Ein Statusüberblick und Ausblick<br>
 Contribution to a conference proceedings/Contribution to a book<br>
 Grünter, E. ; Meier, M. ; Niederberger, R. ; Oistrez, T.<br>
 Ein zuverlässiger und schneller Dateitransfer mit dynamischer Firewall-Konfiguration für Grid-Systeme<br>
-2.\ DFN-Forum Kommunikationstechnologien - Verteilte Systeme im Wissenschaftsbereich, P. Müller, B. Neumair, G. Dreo Rodosek (Hrsg.), GI-Edition - Lectures in Informatics, 2009. - 978-3-88579-243-7. - S. 35 - 42
+2\. DFN-Forum Kommunikationstechnologien - Verteilte Systeme im Wissenschaftsbereich, P. Müller, B. Neumair, G. Dreo Rodosek (Hrsg.), GI-Edition - Lectures in Informatics, 2009. - 978-3-88579-243-7. - S. 35 - 42
 
 Contribution to a conference proceedings/Contribution to a book<br>
 Oistrez, T. ; Grünter, E. ; Meier, M. ; Niederberger, R.<br>
