@@ -10,3 +10,5 @@ This web site is a small smorgasbord of different things.
 
 [Slides: Vi IMproved and adapted](https://abcdegon.github.io/vim.pdf)
 
+[Slides: Using iCloud Keychain](https://abcdegon.github.io/iCloudKeychain.pdf.pdf)
+
