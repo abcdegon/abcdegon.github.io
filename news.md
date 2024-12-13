@@ -8,7 +8,7 @@ Summary:<br>
     * Microsoft will end upport for Apps "Mail", "Calendar" and "Contacts" on Dec. 31st 2024 <br>
     * Apps will be replaced by the new web-based Outlook app <br>
     * Problems seem to be: <br>
-	* dependency on internet connnection <br>
-	* ads without a M365 saubscription <br>
-	* provacy concerns because IMAP login data is transferred to MS cloud <b <br>
+        * dependency on internet connnection <br>
+        * ads without a M365 saubscription <br>
+        * privacy concerns because IMAP login data is transferred to MS cloud <br>
     * Alternatives as Thunderbird and Wino Mail are recommended for those who will not switch to the new Outlook.
