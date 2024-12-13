@@ -5,5 +5,7 @@ of my publications can be found [here](https://orcid.org/0000-0001-6708-2109).
 
 This web site is a small smorgasbord of different things.
 
+Here you can find some [news of the week](https://abcdegon.github.io/news.md)
+
 [Slides: Vi IMproved and adapted](https://abcdegon.github.io/vim.pdf)
 
