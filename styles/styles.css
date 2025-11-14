@@ -4,13 +4,15 @@ html {
   /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
   font-family: "Inconsolata", monospace;
 
-  background-color: #00539f;
+  /* background-color: #00539f;*/
+  background-color: #000000;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #ff9500;
+  /*background-color: #275640;*/
+  background-color: #275640;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
